@@ -2,28 +2,29 @@
 
 Car black box is a device which store the speed time and events of the car.
 
-it is also used to the display the current speed and event of the  car.
+It is also used to the display the current speed and event of the  car.
 
 This project involves displaying three different screens
 
 # 1.Dashboard
 
-it shows the current time speed and event of the car.
+It shows the current time speed and event of the car.
 
-the changes in the events wll be stored into the eeprom.
+The changes in the events wll be stored into the eeprom.
+
 ![Screenshot (75)](https://github.com/dhanudj000/car_black_box/assets/122971572/cc84629c-852d-44fa-b332-1d38fdc50ff5)
 
 # 2.Login screen
 
-it acts as the gate to access the data.
+It acts as the gate to access the data.
 
-password need to be entered correctly in 3 attempts to go to next screen
+Password need to be entered correctly in 3 attempts to go to next screen
 
 ![Screenshot (76)](https://github.com/dhanudj000/car_black_box/assets/122971572/843569fc-266e-438f-b4c9-e7c88b965493)
 
 # 3.Menu screen
 
-it contains different options :
+It contains different options :
 
 view log         : it prints the data of eeprom in the clcd
 
