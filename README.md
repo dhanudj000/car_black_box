@@ -11,8 +11,7 @@ This project involves displaying three different screens
 it shows the current time speed and event of the car.
 
 the changes in the events wll be stored into the eeprom.
-
-https://github.com/dhanudj000/car_black_box/assets/122971572/524801b8-bff3-4276-8b41-0f5c326f8023
+![Screenshot (75)](https://github.com/dhanudj000/car_black_box/assets/122971572/cc84629c-852d-44fa-b332-1d38fdc50ff5)
 
 # 2.Login screen
 
@@ -35,6 +34,8 @@ download log     : it transfers data through the uart protocol
 change password  : it changes the pswd and writes it into the eeprom
 
 set time         : it helps to write time into RTC.
+
+![Screenshot (77)](https://github.com/dhanudj000/car_black_box/assets/122971572/558e5a86-f6bd-429d-a8fe-3b2904c849ed)
 
 # Technologies used
 
