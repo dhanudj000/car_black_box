@@ -104,6 +104,7 @@ char login(unsigned char *reset, unsigned char key) //FUNCTION TO CHECK THE  PAS
     if(return_time == 0)
     {
         cursor_off();                            //IF RETURN TIME IS 0 CLEAR DISPLAY
+        clear_display();
         *reset = RESET_PASS;                     //SET RESET_PASS
         return FAILURE;
     }
